@@ -34,5 +34,6 @@
     font-size: 18px; /* Tamaño de fuente de los elementos del menú */
 }
 
-.menu ul li a:hover {
+.menu ul li a:hover{
     background-color: #555;
+}
